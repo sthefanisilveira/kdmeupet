@@ -10,7 +10,7 @@
 
 ## Resultado final
 
-![](assets/resultado.png)
+![](/src/assets/resultado.png)
 
 ## Autora
 
